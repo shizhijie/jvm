@@ -1,4 +1,4 @@
-package com.zjs.bwcx.servlet;
+package com.bjsxt.servlet;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
